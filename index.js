@@ -21,4 +21,3 @@ function inc(n) {
 function dec(n) {
   return n--;
 }
-
